@@ -21,11 +21,11 @@ Os arquivos devem ser organizados da seguinte forma:
 
 ### Estrutura sugerida:
 
-- `1°_semestre/`
+- `1°_periodo/`
   - `Calculo/`
   - `aeds1/`
   - `projetos1/`
-- `2°_semestre/`
+- `2°_periodo`
   - `Estatistica/`
   - `etc/`
 - `materiais_monitoria/`
@@ -34,7 +34,7 @@ Os arquivos devem ser organizados da seguinte forma:
   - `dicas_de_estudo/`
 - `Apadrinhamento CDIA/`
   - `Conteudos/`
-  
+
 ## 🤝 Como Contribuir
 
 1. Faça um fork deste repositório
