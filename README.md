@@ -32,7 +32,9 @@ Os arquivos devem ser organizados da seguinte forma:
   - `resumos/`
   - `exercicios/`
   - `dicas_de_estudo/`
-
+- `Apadrinhamento CDIA/`
+  - `Conteudos/`
+  
 ## 🤝 Como Contribuir
 
 1. Faça um fork deste repositório
