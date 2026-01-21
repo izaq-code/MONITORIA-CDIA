@@ -21,11 +21,11 @@ Os arquivos devem ser organizados da seguinte forma:
 
 ### Estrutura sugerida:
 
-- `1o_semestre/`
+- `1°_semestre/`
   - `Calculo/`
   - `aeds1/`
   - `projetos1/`
-- `2o_semestre/`
+- `2°_semestre/`
   - `Estatistica/`
   - `etc/`
 - `materiais_monitoria/`
